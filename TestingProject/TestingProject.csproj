@@ -45,7 +45,6 @@
     <WarningLevel>4</WarningLevel>
     <DeployOnBuild>true</DeployOnBuild>
     <DeployTarget>Package</DeployTarget>
-    <PackageAsSingleFile>true</PackageAsSingleFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />
